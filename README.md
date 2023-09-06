@@ -9,8 +9,7 @@ A API do Car Sale Verzel é responsável por fornecer dados sobre veículos, ger
 ## Devlog Passo a Passo
 
 - [x] **Configuração do Ambiente e Inicialização do Projeto**
-  - [x] Configurar o ambiente de desenvolvimento: Node.js, SDK .NET e extensões relevantes no Visual Studio Code.
-  - [x] Criar o projeto React com TypeScript usando o comando `npm create vitest@latest`.
+  - [x] Configurar o ambiente de desenvolvimento: SDK .NET e extensões relevantes no Visual Studio Code.
   - [x] Inicializar o repositório Git e fazer o primeiro commit.
 
 - [x] **Implementação do Back-end**
