@@ -6,6 +6,25 @@ O **Car Sale Verzel** é um sistema de catálogo de vendas de veículos que foi 
 
 A API do Car Sale Verzel é responsável por fornecer dados sobre veículos, gerenciar o catálogo de veículos, realizar operações de vendas e muito mais. A API segue as melhores práticas de desenvolvimento .NET Core e utiliza o padrão RESTful para comunicação.
 
+## Devlog Passo a Passo
+
+- [x] **Configuração do Ambiente e Inicialização do Projeto**
+  - [x] Configurar o ambiente de desenvolvimento: Node.js, SDK .NET e extensões relevantes no Visual Studio Code.
+  - [x] Criar o projeto React com TypeScript usando o comando `npm create vitest@latest`.
+  - [x] Inicializar o repositório Git e fazer o primeiro commit.
+
+- [x] **Implementação do Back-end**
+  - [x] Criar uma nova solução no Visual Studio para o projeto back-end.
+  - [x] Adicionar um projeto ASP.NET Core Web API à solução.
+  - [x] Definir o modelo de carro (id, modelo, marca, foto, nome) usando classes em C#.
+  - [x] Configurar o banco de dados usando o Entity Framework Core.
+  - [x] Implementar endpoints da API para operações CRUD de veículos.
+
+- [ ] **Autenticação JWT**
+  - [ ] Adicionar o pacote NuGet necessário para suportar autenticação JWT.
+  - [ ] Implementar funcionalidade de registro e autenticação de usuários.
+  - [ ] Gerar tokens JWT para autenticação.
+
 ## Tecnologias Utilizadas
 
 - **Plataforma de Desenvolvimento**: .NET Core
